@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "js",
+        "noEmitOnError": true,
+        "experimentalDecorators": true,
+        "outFile": "js/app.js"
+    },
+
+    "include": [
+        "ts/**/*"
+    ]
+}
